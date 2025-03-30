@@ -1,5 +1,3 @@
-Here's the complete README and setup files in one copy-pasteable block (excluding the app code as requested):
-
 ```markdown
 # LAMEUTE PDF Merger
 
